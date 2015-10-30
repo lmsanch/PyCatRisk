@@ -1,0 +1,2 @@
+# PyCatRisk
+IPython Notebook to collect and explore a dataset that includes 100 years of earthquake data from the USGS, around the geographical location covered by the bond. Pandas for time series analysis of earthquake historical data. Monte Carlo Error Propagation to generate simulated earthquakes and calculate exceedance loss probabilities on life on bond. Sci-kit learn, and/or other tools to select best parameters to fit target credit rating, bond parameters, and predict spread over LIBOR.
