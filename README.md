@@ -22,5 +22,7 @@
 Good luck taking over the world of insurance! :smile: :earth_americas: :tada:
 ![Alt Text](https://i.imgur.com/P9nMhXb.jpg)
 
-**2014 YouTube Demo**
+**2014 YouTube Demo, articles, etc.**
 - Please check out my PyData 2014 presentation [here](https://youtu.be/heGtUhFm1-A)
+- You can contact me [here](https://www.linkedin.com/in/lmsanch/)
+- You can read my articles [here](https://medium.com/@lmsanch)
