@@ -22,4 +22,3 @@
 - Before venturing into your own fintech venture, ensure you have a well-rounded plan that encompasses advanced risk assessment techniques and partners/colleagues that know the critical aspect of risk distribution, which is fundamental to any insurance business.
 
 ![Embedded Image](https://i.imgur.com/GMzB2Xw.jpg)
-
