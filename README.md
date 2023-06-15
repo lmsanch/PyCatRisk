@@ -21,4 +21,4 @@
 - It is crucial to consider risk distribution in building a successful insurance venture. While advanced modeling techniques provide valuable insights and pricing capabilities, a robust and sustainable insurance business requires the ability to distribute risk across a diverse pool of insured entities.
 - Before venturing into your own fintech venture, ensure you have a well-rounded plan that encompasses advanced risk assessment techniques and partners/colleagues that know the critical aspect of risk distribution, which is fundamental to any insurance business.
 
-![experience](https://imgur.com/a/GMzB2Xw)https://imgur.com/a/GMzB2Xw)
+![Example Image](https://imgur.com/a/GMzB2Xw)
