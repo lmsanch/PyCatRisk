@@ -17,8 +17,7 @@
 **Business Application**
 
 - This comprehensive framework, incorporating advanced modeling techniques and machine learning, holds immense potential for pricing and managing various insurance risks. It effectively assesses risks characterized by low frequency and high severity using techniques like Monte Carlo simulations and enhanced risk analysis.
-- The versatility of the framework extends beyond earthquake insurance, allowing for the pricing and management of other risks such as hurricanes, floods, or rare events like asteroid impacts.
+- The versatility of the framework extends beyond earthquake insurance, allowing for the pricing and management of other risks such as hurricanes, floods, or rare events like asteroid impacts, bul also more mundane such a many lines of Property & Casualty Insurance and some types of Life Insurance.
 - It is crucial to consider risk distribution in building a successful insurance venture. While advanced modeling techniques provide valuable insights and pricing capabilities, a robust and sustainable insurance business requires the ability to distribute risk across a diverse pool of insured entities.
-- To achieve success in the insurance industry, it is essential to take a balanced approach that integrates the advanced modeling framework with a sound risk distribution strategy.
-- Before venturing into your own fintech venture, ensure you have a well-rounded plan that encompasses advanced risk assessment techniques and the critical aspect of risk distribution, which is fundamental to any insurance business.
+- Before venturing into your own fintech venture, ensure you have a well-rounded plan that encompasses advanced risk assessment techniques and partners/colleagues that know the critical aspect of risk distribution, which is fundamental to any insurance business.
 
