@@ -22,4 +22,3 @@
 - To achieve success in the insurance industry, it is essential to take a balanced approach that integrates the advanced modeling framework with a sound risk distribution strategy.
 - Before venturing into your own fintech venture, ensure you have a well-rounded plan that encompasses advanced risk assessment techniques and the critical aspect of risk distribution, which is fundamental to any insurance business.
 
-Note that the bullet points may appear differently depending on the rendering of the markdown.
