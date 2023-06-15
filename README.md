@@ -1,3 +1,4 @@
 # PyCatRisk
 IPython Notebook to collect earthquake data from the USGS, around a specific geographical location, and design an insurance linked security (ILS) to launch to the capital markets. Pandas for time series analysis of earthquake historical data. Monte Carlo Error Propagation to generate simulated earthquakes, hurricanes, etc. and calculate exceedance loss probabilities on life of ILS. Custom ML code to select best parameters to fit target credit rating, ILS parameters, and predict spread over LIBOR of the security. D3JS for design of geographical coverage. [
 ](https://youtu.be/heGtUhFm1-A)https://youtu.be/heGtUhFm1-A
+Using pandas, MC simulations, and classification/regression models, this hybrid quant/ml model suits various insurance risks (tail risk) with publicly available dats. Vectorization of categorical features could improve loss ratios, outperforming GLMs. No actuaries needed!
